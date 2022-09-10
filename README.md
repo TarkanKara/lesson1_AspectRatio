@@ -1,6 +1,6 @@
-## lesson1_AspectRatio_Example
+# lesson1_AspectRatio_Example
 
-# AspectRatio ?
+## AspectRatio ?
 
 Flutter'da bir widget'ın en boy oranının nasıl ayarlanacağı belirler. Bazen bir widget'ın boyutlarından çok oranlarını önemseyebilirsiniz. Örneğin, genişliğin her zaman yüksekliğin iki katı olmasını istiyorsunuz. Bu amaçla Flutter, **AspectRatio** adlı bir widget'a sahiptir. Daha iyi okunabilirlik için, enspectRatio değerini ondalık sayı yerine kesir olarak iletmeniz önerilir. Flutter bunu derleme zamanında hesapladığı için performansı etkilemez.
 
