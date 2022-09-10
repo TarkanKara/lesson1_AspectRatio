@@ -1,4 +1,4 @@
-##lesson1_AspectRatio_Example
+## lesson1_AspectRatio_Example
 
 # AspectRatio ?
 
