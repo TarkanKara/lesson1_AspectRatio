@@ -16,4 +16,4 @@ Flutter'da bir widget'ın en boy oranının nasıl ayarlanacağı belirler. Baze
 
 ‌
 
-[Creating responsive and adaptive apps]([https://api.flutter.dev/flutter/widgets/AspectRatio-class.html "smartCard-block"](https://docs.flutter.dev/development/ui/layout/adaptive-responsive))
+[Creating responsive and adaptive apps](https://docs.flutter.dev/development/ui/layout/adaptive-responsive "smartCard-block")
