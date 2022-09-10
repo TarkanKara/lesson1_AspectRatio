@@ -40,7 +40,7 @@ class __AspectRatioState extends State<_AspectRatio> {
                 child: AspectRatio(
                   aspectRatio: 16 / 9,
                   child: Image(
-                    image: NetworkImage("https://picsum.photos/200/300"),
+                    image: NetworkImage("https://picsum.photos/id/1/200/300"),
                     fit: BoxFit.fill, //BoxFit.fill kullanımı
                   ),
                 ),
